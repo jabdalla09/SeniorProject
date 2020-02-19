@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="str.get_coord" />
+        <option value="test1.*" />
       </list>
     </option>
   </inspection_tool>
